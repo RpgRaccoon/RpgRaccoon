@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RpgRaccoon
 - 👀 I’m interested in Programming and learning languges 
-- 🌱 I’m currently learning JS frontend full stack
+- 🌱 I’m currently learning JS frontend 
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me :- you can DM me
 
